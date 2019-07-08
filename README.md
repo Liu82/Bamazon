@@ -8,4 +8,4 @@ Technology required.
 Javascript MySQL, NODE
 
 
-I only chose to do the customer. I found this homework to be really hard. 
+I only chose to do the customer. I found this homework to be really hard. Getting everything to connect and run smoothly on terminal was not easy.
