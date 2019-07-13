@@ -9,3 +9,10 @@ Javascript MySQL, NODE
 
 
 I only chose to do the customer. I found this homework to be really hard. Getting everything to connect and run smoothly on terminal was not easy.
+
+
+<p align="center">
+    <img src="/pictures/One.png">
+    <img src="/pictures/Two.png">
+    <img src="/pictures/Three.png">
+    <img src="/pictures/Four.png">
