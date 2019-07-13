@@ -12,7 +12,7 @@ I only chose to do the customer. I found this homework to be really hard. Gettin
 
 
 <p align="center">
-    <img src="/pictures/One.png">
-    <img src="/pictures/Two.png">
-    <img src="/pictures/Three.png">
-    <img src="/pictures/Four.png">
+    <img src="/Pictures/One.png">
+    <img src="/Pictures/Two.png">
+    <img src="/Pictures/Three.png">
+    <img src="/Pictures/Four.png">
